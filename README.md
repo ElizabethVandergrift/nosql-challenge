@@ -1,4 +1,4 @@
-```markdown
+
 # Eat Safe, Love: UK Food Standards Agency Data Analysis
 
 ## Overview
